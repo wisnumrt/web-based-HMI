@@ -64,3 +64,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## web-based-HMI
+
+Web-based HMI (Human Machine Interface) is a user interface that allows operators or users to monitor, control, and interact with production processes through a web-based application.
